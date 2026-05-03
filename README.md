@@ -126,12 +126,12 @@ index.html
 
 ## 🔮 Future Enhancements
 
-🛍️ Real Product API Integration
-📊 Price Comparison Engine
-🧾 Review Summarization
-🤖 Personalized Recommendation Memory
-🌐 Backend Integration (Node.js / Python)
-📈 User Preference Analytics
+* 🛍️ Real Product API Integration
+* 📊 Price Comparison Engine
+* 🧾 Review Summarization
+* 🤖 Personalized Recommendation Memory
+* 🌐 Backend Integration (Node.js / Python)
+* 📈 User Preference Analytics
 
 ---
 
@@ -139,11 +139,11 @@ index.html
 
 💡 Built as part of experimentation with AI-powered shopping assistants and conversational interfaces.
 
+---
+
 ## 📬 Connect with Me
 
 **Daksh Khandelwal**
 1st Year BS in AI & Data Science @ IIT Jodhpur
-
 📧 dk.khandelwaliitj@gmail.com
-
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
