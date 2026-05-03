@@ -144,6 +144,6 @@ index.html
 ## 📬 Connect with Me
 
 **Daksh Khandelwal**
-1st Year BS in AI & Data Science @ IIT Jodhpur
-📧 dk.khandelwaliitj@gmail.com
+1st Year BS in AI & Data Science @ IIT Jodhpur  
+📧 dk.khandelwaliitj@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
